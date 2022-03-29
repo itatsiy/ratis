@@ -26,6 +26,7 @@
   <properties>
     <maven.javadoc.skip>true</maven.javadoc.skip>
     <spotbugs.skip>true</spotbugs.skip>
+    <os.detected.classifier>osx-x86_64</os.detected.classifier>
   </properties>
 
   <build>
